@@ -1,0 +1,55 @@
+html {font-family: sans-serif; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; }
+*{padding: 0;margin: 0;font-family: Arial;color: #1e1e1e;text-decoration: none;box-sizing: border-box;}
+body{background-color: #e5d4b1;font-size: 14px;}
+main{width: 1200px;margin:0px auto;}
+img{vertical-align: middle;}
+/*class globel*/
+/*display*/
+.dis-block{display: block!important;}
+.dis-inline{display: inline!important;}
+.dis-inline-block{display: inline-block!important;}
+.dis-flex{display: flex;}
+/*position*/
+.pos-relative{position: relative;}
+.pos-absolute{position: absolute;}
+.pos-fixed{position: fixed;}
+.pos-static{position: static;}
+/*flex*/
+.flex{display: flex!important;}
+.justify-content-start{justify-content: flex-start;}
+.justify-content-end{justify-content: flex-end;}
+.justify-content-center{justify-content: center;}
+.justify-content-between{justify-content: space-between;}
+.justify-content-around{justify-content: space-around;}
+
+.align-items-stretch{align-items: stretch;}
+.align-items-start{align-items: flex-start;}
+.align-items-end{align-items: flex-end;}
+.align-items-center{align-items: center;}
+.align-items-baseline{align-items: baseline;}
+
+.align-content-stretch{align-content: stretch;}
+.align-content-start{align-content: flex-start;}
+.align-content-end{align-content: flex-end;}
+.align-content-center{align-content: center;}
+.align-content-between{align-content: space-between;}
+.align-content-around{align-content: space-around;}
+.flex-wrap-wrap{flex-wrap: wrap;}
+.flex-wrap-nowrap{flex-wrap: nowrap;}
+.list-style{list-style: none;}
+/**/
+.pull-left{float: left;}
+.pull-right{float: right;}
+.clearfix:after {clear: both;content: ".";display: block;height: 0;line-height: 0;visibility: hidden;}
+/**/
+.height100{height: 100%;}
+.width100{width: 100%;}
+/*text*/
+.text-center{text-align: center;}
+.text-left{text-align:left;}
+.text-right{text-align:right;}
+.text-uppercase{text-transform: uppercase;}
+.text-justify{text-align: justify;}
+/**/
+.img-responsive{display: block; max-width: 100%; height: auto;}
+.center-block{display: block;margin-left: auto;margin-right: auto;height: auto;}

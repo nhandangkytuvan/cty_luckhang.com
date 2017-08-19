@@ -1,0 +1,171 @@
+.h-home{width: 1200px;margin:0px auto;}
+.h-home .r1{background-color: #fff;height: 289px;padding:20px 25px;}
+.h-home .r1 .f1{justify-content: space-between;}
+.h-home .r1 .f1 .f1-col2{width: 828px;}
+.h-home .r1 .r1-1{font-weight: bold;font-size: 24px;}
+.h-home .r1 .r1-2{margin-top: 22px;line-height: 18px;}.h-home .r1 .r1-2 strong{vertical-align: top;}
+.h-home .r1 .f1-col2 a{display: block;width: 190px;height: 36px;line-height: 36px;border-radius: 25px;background-color: #015a13;text-align: center;color: #ffea00;bottom:20px;right: 20px;font-size: 18px;font-weight: 500;}
+
+.h-home .r2{margin-top: 10px;min-height: 500px;background-color: #fff;}
+.h-home .r2{background-image: url('../../../image/luckhangcom/desktop/home/6.png');background-position: 169px 198px;background-repeat: no-repeat;}
+.h-home .heading{display: inline-block;background-color: #015a13;padding:13px 25px;color: #fff;font-weight: 600;font-size: 18px;margin-top: 20px;font-family: Tahoma}
+.h-home .r2 .f1{margin:0px 25px;margin-top: 25px;}
+.h-home .r2 .f1 .f1-col1{width: 575px;}
+.h-home .r2 .f1 .f1-col2{width: 505px;}
+.h-home .r2 .f1 .f1-col2.bg{background-image: url('../../../image/luckhangcom/desktop/home/7.png');background-repeat: no-repeat;background-position: center;}
+.h-home .r2 .f1 .pull-right{margin-left: 45px;margin-bottom: 25px;margin-top: 10px;}
+.h-home .r2 h2{font-size: 18px;font-weight: 550;color: #0d3f84;text-transform: uppercase;text-align: center;font-family: Tahoma}
+.h-home .r2 p{color: #373737;margin-top: 15px;line-height: 18px;}
+.h-home .r2 p.p-italic{font-style: italic;}
+.h-home .r2 .f1.f2{margin-top: 68px;}
+.h-home .r2 .f1.f2 p{margin-top: 35px;}
+
+.h-home .r3{margin-top: 10px;background-color: #fff;padding-bottom: 20px;}
+.h-home .r3 .border{margin:0px 25px;margin-top: 20px;border:1px solid #ddd;padding-top: 5px;}
+.h-home .r3 .border .heading{margin-top: 0;margin-left: -1px;}
+.h-home .r3 .border .f1{margin:10px 0px;}
+
+.h-home .r4{margin-top: 10px;background-color: #fff;padding:40px 25px;}
+.h-home .r4 .f1 >div{border:1px solid #015a13;width: 362px;}
+.h-home .r4 .f1 .bg{background-color: #015a13;padding:8px;}
+.h-home .r4 .f1 .bg h3{font-size: 14px;margin-bottom: 5px;color: #fff;font-weight: 500;}
+.h-home .r4 .f1 .bg a{color: #ffe400;}
+.h-home .r4 .f1 ul{list-style: none;padding-left: 20px;padding-bottom: 12px;}
+.h-home .r4 .f1 ul li{margin-top: 12px;}
+.h-home .r4 .e2{margin-top: 20px;background-color: #dddddd;padding-top: 20px;padding-bottom: 20px;}
+.h-home .r4 .e2 h3{text-align: center;color: #0d3f84;font-size: 24px;}
+.h-home .r4 .e2 h3 span{color: #d02c47;}
+.h-home .r4 .e2 a{display: block;margin-top:15px;text-align: center;color: #e01b3c;font-size: 15px;}
+.h-home .r4 .e3{margin-top: 30px;}
+.h-home .r4 .e3 >.col1{width: 609px;} 
+.h-home .r4 .e3 >.col1 p{text-align: justify;margin-bottom: 15px;line-height: 18px;}
+.h-home .r4 .e3 >.col2{width: 504px;} 
+
+.h-home .r5{margin-top: 10px;background-color: #fff;padding-bottom: 25px;}
+.h-home .r5 .body{margin:0px 25px;margin-top: 20px;padding-bottom: 15px;border: 1px solid #015a13;padding: 15px;padding-top: 30px;}
+.h-home .r5 .body .des1{font-weight: bold;line-height: 19px;font-size: 14px;padding-left: 62px;}
+.h-home .r5 .body table{width: 100%;border-spacing: 0;margin-top: 25px;}
+.h-home .r5 .body table tr td{padding:0px 10px;vertical-align: middle;padding-bottom: 20px;}
+.h-home .r5 .body table tr td span{display: block;width: 35px;height: 35px;line-height: 35px;text-align: center;border-radius: 50%;color: #015a13;border:1px solid #015a13;font-size: 22px;}
+.h-home .r5 .body table tr td p{text-align: justify;line-height: 18px;}
+
+.h-home .r6{margin-top: 10px;background-color: #fff;padding-bottom: 15px;}
+.h-home .r6 .body{margin:0px 25px;margin-top: 20px;padding-bottom: 15px;border: 1px solid #c4c4c4;padding: 15px;padding-top: 30px;}
+.h-home .r6 .body .des1{font-weight: bold;line-height: 19px;font-size: 14px;padding-left: 62px;}
+.h-home .r6 .body table tr td p{text-align: justify;line-height: 18px;}
+.h-home .r6 .body table{width: 100%;border-spacing: 0;margin-top: 25px;}
+.h-home .r6 .body table tr td{padding:0px 20px;vertical-align: top;color: #373737;}
+.h-home .r6 .body table tr td:nth-child(n+2){padding-top: 30px;}
+.h-home .r6 .body table tr td.bg{background-image: url('../../../image/luckhangcom/desktop/home/9.png');background-repeat: no-repeat;background-position: right;}
+.h-home .r6 .body table tr td p{color: #373737;}
+.h-home .r6 .adv{margin-top: 30px;}
+
+.h-home .r7{margin-top: 10px;background-color: #fff;padding-bottom: 20px;}
+.h-home .r7 .body{padding:10px 25px;}
+.h-home .r7 .body1{border:1px solid #015a13;min-height: 300px;padding-bottom: 25px;}
+.h-home .r7 .body1 h3{font-size: 18px;color: #222222;margin-top: 25px;text-align: center;}
+.h-home .r7 .body1 .f1{line-height: 19px;text-align: justify;margin-top:25px; padding:0px 30px;}
+.h-home .r7 .body1 .f1 .col1{width: 431px;padding-top: 35px;}
+.h-home .r7 .body2{margin-top: 55px;}
+.h-home .r7 .body2 .f2 .col1{width: 558px;border:1px solid #015a13;border-top-right-radius: 5px;border-bottom-right-radius: 5px;min-height: 400px;margin-bottom: 40px;}
+.h-home .r7 .body2 .f3 .col1-1{background-color: #015a13;text-align: center;width: 70px;font-size: 18px;font-weight: bold;}
+.h-home .r7 .body2 .f3 .col1-1 span{color: #fff;display: block;text-align: center;margin:5px auto;}
+.h-home .r7 .body2 .f3 .col1-2{width: 486px;}
+.h-home .r7 .body2 .f3 .col1-2 .img-sp{padding-top: 36px;}
+.h-home .r7 .body2 .f3 .col1-2 .img-sp .gia-sp{top:24px;left: 308px;background-image: url('../../../image/luckhangcom/desktop/home/13.png');background-repeat: no-repeat;width: 75px;height: 78px;padding-top: 22px;}
+.h-home .r7 .body2 .f3 .col1-2 .img-sp .gia-sp span{color: #fff;}
+.h-home .r7 .body2 .f3 .col1-2 table{margin:0px 25px;margin-top: 40px;width: 100%;border-spacing: 0;}
+.h-home .r7 .body2 .f3 .col1-2 table td{vertical-align: middle;}
+.h-home .r7 .body2 .f3 .col1-2 table td p.gia-old{color: #505050;font-size: 14px;margin-bottom: 10px;text-decoration:line-through; }
+.h-home .r7 .body2 .f3 .col1-2 table td p.gia-new{color: #036e84;font-size: 18px;}
+.h-home .r7 .body2 .f3 .col1-2 table td a{display: block;background-color: #015a13;color: #fff;text-align: center;text-transform: uppercase;height: 45px;line-height: 45px;width: 175px;border-radius: 5px;}
+.h-home .r7 .body2 .f3 .col1-2 .footer{background-color: #4da45e;color: #fff;padding:30px;text-align: justify;margin-top: 30px;line-height: 19px;}
+
+.h-home .r7 .body2 .f3 .col1-1.arrow_box {position: relative; background: #015a13; }
+.h-home .r7 .body2 .f3 .col1-1.arrow_box:after {left: 100%; top: 50%; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none; border-color: rgba(1, 90, 19, 0); border-left-color: #015a13; border-width: 16px; margin-top: -16px; }
+.h-home .r7 .adv{margin-top: 0px;}
+
+.h-home .r8{margin-top: 10px;background-color: #fff;min-height: 200px;padding:40px 25px;padding-bottom: 30px;}
+.h-home .r8 .f1 .col1{border:1px solid #ddd;padding: 50px 22px 30px 22px;}
+.h-home .r8 .f1 .col2{width: 910px;}
+.h-home .r8 .f1 .col2.f2 >div{margin-bottom: 28px;}
+.h-home .r8 .f1 .col2.f2 >div:nth-child(n+5){margin-bottom: 0;}
+.h-home .r8 .f3{margin-top: 25px;border:1px solid #4da45e;border-radius: 5px;padding:20px 0px;}
+.h-home .r8 .f3 .col1{width: 25%;}
+.h-home .r8 .f3 .col1 img{margin-bottom: 25px;}
+.h-home .r8 .f3 .col1:nth-child(2) img{margin-top: -12px;}
+.h-home .r8 .f3 .col1:nth-child(3) img{margin-top: -5px;}
+.h-home .r8 .f3 .col1:nth-child(4) img{margin-top: -10px;}
+.h-home .r8 .end{margin-top: 10px;font-size: 14px;line-height: 19px;color: #1e1e1e;font-style: italic;font-size: 13px;}
+
+.h-home .rslick{margin-top: 10px;background-color: #fff;padding-bottom: 25px;}
+.h-home .rslick .item{border:1px solid #008e68;margin:0px 25px;margin-top: 25px;padding-top: 30px;padding-left: 70px;height: 410px;}
+.h-home .rslick .item .name{color: #015a13;font-size: 18px;font-weight: bold;text-transform: uppercase;}
+.h-home .rslick .item .name2{color: #015a13;font-size: 18px;margin-top: 10px;}
+.h-home .rslick .item p{color: #292929;}
+
+.h-home .rslick .item1{background-image: url('../../../image/luckhangcom/desktop/home/slick1.png');background-repeat: no-repeat;background-position: 830px 80px;}
+.h-home .rslick .item1 .content{margin-top: 70px;}
+.h-home .rslick .item1 .content p{margin-bottom: 20px;color: #292929;font-size: 18px;}
+
+.h-home .rslick .item2{background-image: url('../../../image/luckhangcom/desktop/home/slick2.png');background-repeat: no-repeat;background-position:431px 99px;}
+.h-home .rslick .item2 .content{margin-top: 110px;}
+.h-home .rslick .item2 .content p{width: 330px;text-align: justify;line-height: 22px;font-size: 18px;}
+
+.h-home .rslick .item3{background-image: url('../../../image/luckhangcom/desktop/home/slick3.png');background-repeat: no-repeat;background-position:431px 89px;}
+.h-home .rslick .item3 .content{margin-top: 105px;}
+.h-home .rslick .item3 .content p{width: 320px;text-align: justify;line-height: 19px;margin-bottom: 25px;font-size: 18px;}
+.h-home .rslick .item3 .content .border{border:1px dashed #d1d1d1;border-radius: 5px;padding:12px 10px;display: inline-block;margin-top: 30px;}
+
+.h-home .rslick .item4{background-image: url('../../../image/luckhangcom/desktop/home/slick4.png');background-repeat: no-repeat;background-position:431px 89px;}
+.h-home .rslick .item4 .name2{margin-top: 5px;}
+.h-home .rslick .item4 .content{margin-top: 70px;}
+.h-home .rslick .item4 .content p{width: 300px;text-align: justify;line-height: 19px;margin-bottom: 25px;font-size: 18px;}
+.h-home .rslick .item4 .content .border{border:1px dashed #d1d1d1;border-radius: 5px;padding:12px 10px;display: inline-block;margin-top: 28px;}
+
+.h-home .rslick .item5{background-image: url('../../../image/luckhangcom/desktop/home/slick5.png');background-repeat: no-repeat;background-position:400px 89px;}
+.h-home .rslick .item5 .name2{margin-top: 5px;}
+.h-home .rslick .item5 .content{margin-top: 130px;}
+.h-home .rslick .item5 .content p{text-align: center;font-size: 18px;font-weight: bold;width: 300px;}
+
+.h-home .rslick .item6{background-image: url('../../../image/luckhangcom/desktop/home/slick6.png');background-repeat: no-repeat;background-position:431px 89px;}
+.h-home .rslick .item6 .name2{margin-top: 5px;}
+.h-home .rslick .item6 .content{margin-top: 130px;}
+.h-home .rslick .item6 .content p{text-align: left;font-size: 18px;}
+
+.h-home .rslick .item7{background-image: url('../../../image/luckhangcom/desktop/home/slick7.png');background-repeat: no-repeat;background-position:431px 89px;}
+.h-home .rslick .item7 .name2{margin-top: 5px;}
+.h-home .rslick .item7 .content{margin-top: 130px;}
+.h-home .rslick .item7 .content p{text-align: center;font-size: 18px;font-weight: bold;width: 300px;}
+.h-home .rslick .item7 .content .border{border:1px dashed #d1d1d1;border-radius: 5px;padding:12px 10px;display: inline-block;margin-top: 90px;}
+
+.h-home .rslick .item8{background-image: url('../../../image/luckhangcom/desktop/home/slick8.png');background-repeat: no-repeat;background-position:431px 89px;}
+.h-home .rslick .item8 .content{margin-top: 130px;}
+.h-home .rslick .item8 .content p{text-align: center;font-size: 18px;font-weight: bold;width: 300px;}
+.h-home .rslick .item8 .content .border{border:1px dashed #d1d1d1;border-radius: 10px;padding:5px 30px;display: inline-block;}
+
+.h-home .rslick .item9{background-image: url('../../../image/luckhangcom/desktop/home/slick9.png');background-repeat: no-repeat;background-position:431px 89px;}
+.h-home .rslick .item9 .content{margin-top: 90px;}
+.h-home .rslick .item9 .content p:nth-child(1){text-align: center;font-size: 18px;font-weight: bold;width: 300px;}
+.h-home .rslick .item9 .content p:nth-child(2){text-align: justify;font-size: 18px;width: 300px;margin-top: 25px;}
+
+
+/*hover*/
+.h-home .r1 .f1-col2 a:hover{background-color: #69c17b;}
+.h-home .r7 .body2 .f3 .col1-2 table td a:hover{background-color: #F44336}
+.h-home .r4 .f1 ul li a:hover{color: #F44336;}
+.h-home .r4 .f1 .bg a:hover{text-decoration: underline;}
+/*slick*/
+.slick-prev,.slick-next{width: 29px; height: 96px;background-image: url('../../../image/luckhangcom/desktop/home/icon-slick.png');}
+.slick-next{background-position: -30px 0px;}
+.slick-prev{left: 30px;}
+.slick-next{right: 30px;}
+
+
+
+
+
+
+
+
+

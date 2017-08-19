@@ -1,0 +1,17 @@
+header{width: 1200px;margin:0px auto;}
+.h-top{height: 38px;background-color: #99c8a0;}
+.h-bg{background-image: url('../../../image/luckhangcom/desktop/header/1.png');height: 643px;background-repeat: no-repeat;background-position: center;}
+.h-body menu{width: 1150px;margin:0px auto;padding-top: 20px;}
+.h-body menu ul li{display: inline-block;}
+.h-body menu ul li a{display: block;font-weight: bold;color: #015a13;font-size: 14px;text-align: center;padding:5px 25px;}
+.h-body menu ul li a.border-r{border-right: 1px solid #70a07a}
+.h-footer{background-color: #015a13;height: 62px;}
+.h-footer a,.h-footer span{vertical-align: middle;display: inline-block;height: 62px;line-height: 62px;font-weight: bold;font-size: 24px;font-style: italic;color: #fff;font-family: "Time New Roman";margin-left: 50px; }
+.h-footer a.bg{text-align: center;background-color: #69c17b;padding:0px 15px;}
+.h-body h1{color: #fff;font-size: 39px;padding-top: 14px;}
+
+
+.h-body menu ul li a {position: relative; }
+.h-body menu ul li a span.muiten{opacity: 0;transition: opacity 0.3s;}
+.h-body menu ul li a span.muiten {top: -10px; left: 50%; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none; border-color: rgba(1, 90, 19, 0); border-top-color: #015a13; border-width: 8px; margin-left: -8px; }
+.h-body menu ul li a:hover span.muiten{opacity: 1}

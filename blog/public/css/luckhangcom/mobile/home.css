@@ -1,0 +1,89 @@
+.home .r1{margin-top: 10px;}
+.home .r1 img{border-radius: 3px;margin-bottom: 8px;}
+.home .r1 p{margin-bottom: 5px;line-height: 19px;color: #1e1e1e;text-align: justify;}
+.home .title{background-color: #015a13;color: #fff;padding:8px 15px;font-weight: bold;font-size: 16px;margin-top: 15px;}
+/**/
+.home .r2{margin-top: 15px;}
+.home .r2 .item{border:1px solid #015a13;border-radius: 5px;min-height: 300px;padding:15px;}
+.home .r2 .item .name{font-size: 14px;font-weight: bold;color: #015a13;}
+.home .r2 .item .name1{font-size: 13px;margin-top: 5px;color: #015a13;} 
+.home .r2 .item .row{margin-top: 10px;}
+.home .r2 .item p{margin-bottom: 5px;font-size: 14px;color: #1e1e1e;}
+.home .r2 .item .row >div:nth-child(2){padding-top: 15px;}
+.home .r2 .item .row div.border{border:1px dashed #d1d1d1;padding:5px 8px;display: inline-block;border-radius: 5px;}
+/**/
+.home .r3 .name{color: #0d3f84;font-size: 14px;font-weight: bold;margin-bottom: 10px;text-transform: uppercase;}
+.home .r3 p{margin-bottom: 10px;}
+.home .r3 p.italic{font-style: italic;text-align: justify;}
+.home .r3 .pull-right img{margin-left: 10px;margin-bottom: 10px;}
+.home .r3 .clearfix{margin-top: 20px;margin-bottom: 20px;}
+/**/
+.home .r4 .border{border:1px solid #ddd;margin-top: 20px;padding:8px;padding-bottom: 0;}
+.home .r4 .border .item{margin-bottom: 8px;}
+.home .r4 table{width: 100%;border-spacing: 0;margin-top: 20px;}
+.home .r4 table tr td:nth-child(1){width: 50px;text-align: center;background-color: #015a13;vertical-align: middle;color: #fff;font-weight: bold;min-height: 400px;text-align: center;text-transform: uppercase;line-height: 19px;}
+.home .r4 table{border:1px solid #015a13;}
+.home .r4 table tr td img{max-width: 100%!important;}
+.home .r4 table tr td div.img{padding:16px;}
+.home .r4 table tr td div.price{margin-top: 5px;padding:0px 8px;}
+.home .r4 table tr td div.price .pull-right{background-color: #015a13;color: #fff;padding:6px 10px;border-radius: 3px;text-align: center;text-transform: uppercase;}
+.home .r4 table tr td div.price p.price-old{text-decoration: line-through;color: #505050;}
+.home .r4 table tr td div.price p.price-new{font-size: 18px;color: #036e84;}
+.home .r4 table tr td div.content{margin-top: 5px;background-color: #4da45e;padding:10px;color: #fff;text-align: justify;}
+.home .r4 table tr td:nth-child(1).arrow_box {position: relative; background: #015a13; }
+.home .r4 table tr td:nth-child(1).arrow_box:after {left: 100%; top: 50%; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none; border-color: rgba(1, 90, 19, 0); border-left-color: #015a13; border-width: 10px; margin-top: -10px; }
+.home .ship{margin:0px -15px;margin-top: 20px;}
+.home .list-posts .head{background-color: #015a13;color: #fff;padding:5px;}
+.home .list-posts .head a{color: #ffe400;}
+.home .list-posts .row div.border{border:1px solid #015a13;margin-top: 15px;}
+.home .list-posts ul{list-style: none;padding:8px;}
+.home .list-posts ul li{padding:3px 0px;}
+.home .list-posts ul li a{color: #373737;}
+.home .bg{background-color: #dddddd;padding:8px;margin-top: 15px;}
+.home .name1{font-weight: bold;color: #0d3f84;}
+.home .name1 span{color: #d02c47;}
+.home .name2{color: #d02c47;margin-top: 8px;text-align: center;}
+.home .r5 div.img{margin-top: 10px;}
+.home .r5 p{margin-top: 25px;color: #373737;text-align: justify;}
+.home .r6 .border{border:1px solid #015a13;margin-top: 20px;padding:5px 0px;}
+.home .r6 .border table{width: 100%;border-spacing: 0;}
+.home .r6 .border table tr td{padding:10px 5px;text-align: justify;}
+.home .r6 .border table tr td span{display: inline-block;width: 30px;height: 30px;border-radius: 50%;border:1px solid #015a13;line-height: 30px;text-align: center;font-size: 15px;color: #015a13;}
+/**/
+.home .r7 .border{border:1px solid #ddd;min-height: 300px;margin-top: 20px;padding-bottom: 10px;}
+.home .r7 .border p{margin-top: 10px;padding:0px 8px;text-align: justify;}
+.home .r7 .border .pull-left img{margin-top: 5px;margin-right: 10px;margin-bottom: 10px;}
+.home .thuonghieu{margin-top: 20px;}
+/**/
+.home .r8 >p{margin-top: 20px;}
+.home .r8 .border{border:1px solid #015a13;margin-top: 15px;padding:8px;}
+.home .r8 .border p{margin-bottom: 10px;text-align: justify;}
+.home .r8 .border .pull-right{margin-left: 10px;margin-bottom: 10px;}
+.home .r8 .border .pull-right img{max-width: 150px;}
+.home .r8 .news{margin-top: 20px;}
+.home .r8 .news >div>div{margin-bottom: 10px;}
+.home .r8 .carts{margin-top: 10px;border:1px solid #cee6d3;padding:8px 0px;border-radius: 3px;}
+.home .r8 .carts span{margin-top: 8px;font-size: 13px;color: #333333;}
+.home .r8 .carts img{max-width: 150px;}
+.home .r8 .carts >div>div{margin-bottom: 8px;}
+.home .r8 .carts >div>div:nth-child(1){padding-top: 10px;}
+.home .r8 .carts >div>div:nth-child(3){padding-top: 5px;}
+
+.slick-prev,.slick-next{width: 17px; height: 55px;background-image: url('../../../image/luckhangcom/mobile/home/icon-slick.png');}
+.slick-next{background-position: -25px 0px;}
+.slick-prev{left: 30px;}
+.slick-next{right: 30px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
